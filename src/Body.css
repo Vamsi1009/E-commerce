@@ -1,0 +1,25 @@
+.form-control:hover{
+   
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    border-color: #63d6d6;
+
+    
+}
+.btn{
+    background-color: #394ff3;
+    border-color: #7b88ea;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.btn:hover{
+     background-color: #122ae5;
+}
+.SignIn{
+    background-color: #e30505ef;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.SignIn:hover{
+    background-color: #5409ecf3;
+}

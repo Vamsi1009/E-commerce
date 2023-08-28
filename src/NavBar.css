@@ -1,0 +1,29 @@
+.NavBar{
+    background-color: #652bda;
+}
+
+.LoginContainer{
+    
+   background-color: color-mix(in lch shorter hue,red 20%, blue 20%);
+    
+    margin: auto;
+    width: fit-content;
+    height:fit-content;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 70% 50%;
+}
+.image{
+    width:450px;
+    height: auto;
+}
+.Cards{
+    margin: auto;
+    margin-top:200px;
+    
+}
+Card{
+    width:300px;
+}
